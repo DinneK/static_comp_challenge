@@ -10,7 +10,7 @@
 
 
 ## Illustrations
-  ![Monkeys Need Comps Too](img width="1421" alt="Screen Shot 2022-07-24 at 6 24 23 AM" src="https://user-images.githubusercontent.com/63877492/180646882-895208d7-dc9e-4da3-a4b4-6cd927b5541d.png")
+  ![Monkeys Need Comps Too]("https://user-images.githubusercontent.com/63877492/180646882-895208d7-dc9e-4da3-a4b4-6cd927b5541d.png")
 
 ## Features
 - Visually appealing static comp.
